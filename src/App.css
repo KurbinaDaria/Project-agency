@@ -1,0 +1,27 @@
+/* App.css */
+
+.App {
+    font-family: Arial, sans-serif; /* Sets the font for the app */
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: center; /* Centers the menu items horizontally */
+    padding: 10px 0; /* Adds some padding above and below the menu */
+    background-color: #f8f9fa; /* Light grey background */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Subtle shadow under the menu */
+}
+
+.nav-link {
+    text-decoration: none; /* Removes underline from links */
+    color: #007bff; /* Bootstrap's primary blue */
+    margin: 0 15px; /* Space between links */
+    padding: 10px 0; /* Padding to increase click area */
+    border-bottom: 3px solid transparent; /* Adds a transparent border for a hover effect */
+    transition: color 0.3s, border-color 0.3s; /* Smooth transition for hover effects */
+}
+
+.nav-link:hover, .nav-link:focus {
+    color: #0056b3; /* Darker blue on hover/focus */
+    border-bottom-color: #0056b3; /* Blue border on hover/focus */
+}

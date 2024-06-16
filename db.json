@@ -1,0 +1,25 @@
+{
+  "resorts": [
+    {
+      "id": 1,
+      "name": "Hiking in the Carpathians",
+      "price": "From 5000 UAH",
+      "img": "/images/karpaty.jpg",
+      "description": "Additional information about the 'Hiking in the Carpathians' tour. It is a great opportunity to enjoy the beauty of nature and a healthy lifestyle."
+    },
+    {
+      "id": 2,
+      "name": "Sea in Odesa",
+      "price": "From 3000 UAH",
+      "img": "/images/odessa.jpg",
+      "description": "Additional information about the 'Sea in Odesa' tour. Enjoy the sun and sea on the best beaches of Odesa."
+    },
+    {
+      "id": 3,
+      "name": "Chocolate Lviv",
+      "price": "From 7000 UAH",
+      "img": "/images/lviv.jpg",
+      "description": "Additional information about the 'Chocolate Lviv' tour. Visit historical places and enjoy the best chocolate."
+    }
+  ]
+}
